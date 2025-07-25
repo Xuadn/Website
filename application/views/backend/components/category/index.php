@@ -37,8 +37,8 @@
 								</div>
 							</div>
 						<?php  endif;?>
-						<div class="row" style='padding:0px; margin:0px;'>
-							<!--ND-->
+							<div class="row" style='padding:0px; margin:0px;'>
+						
 							<div class="table-responsive">
 								<table class="table table-hover table-bordered">
 									<thead>
@@ -113,7 +113,7 @@
 									</ul>
 								</div>
 							</div>
-							<!-- /.ND -->
+							
 						</div>
 					</div><!-- ./box-body -->
 				</div><!-- /.box -->

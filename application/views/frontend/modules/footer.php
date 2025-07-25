@@ -16,7 +16,7 @@
         <div class="col-xs-12 col-sm-12 col-md-6">
             <div class="col-xs-12 col-sm-6">
                 <a href="trang-chu">
-                    <img src="public/images/logo.png" style="width: 100%;" class="img-fix f-logo" alt="smart-construction">
+                    <img src="public/images/logo1.png" style="width: 100%;" class="img-fix f-logo" alt="smart-construction">
                 </a>
                 <div class="about-store">
                  Web cây cảnh. Chất lượng - giá cả hợp lý

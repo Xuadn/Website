@@ -65,7 +65,7 @@
 												<li>Tặng chậu kiểng (khi phiếu mua hàng trên 300,000 đ)</li>
 											</ul>
 											<ul>
-												<li>Tặng phân giống cây trồng (Áp dụng đến hết năm 2021) <a href="#" target="_blank">Xem chi tiết</a>
+												<li>Tặng phân giống cây trồng (Áp dụng đến hết năm 2024) <a href="#" target="_blank">Xem chi tiết</a>
 												</li>
 											</ul>
 											<ul>
